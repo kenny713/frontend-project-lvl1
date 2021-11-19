@@ -1,4 +1,4 @@
-name: github-actions-lint
+name: linter
 
 on:
  push:
