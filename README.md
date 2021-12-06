@@ -22,7 +22,15 @@ _"Brain-games"_ - сборник из 5 консольных мини-игр н�
 5. `brain-prime`. Определить является ли предложенное число простым.
 
 **Демонстрация запуска и процесса игр:**
+
 _**Установка пакета:**_
+
 [![asciicast](https://asciinema.org/a/DdAZZJ5jc1jbZHzxPjPRBoQUv.svg)](https://asciinema.org/a/DdAZZJ5jc1jbZHzxPjPRBoQUv)
+
 _**brain-even**_
+
 [![asciicast](https://asciinema.org/a/wvt8K7zUKlMdi73xIgP69rZMD.svg)](https://asciinema.org/a/wvt8K7zUKlMdi73xIgP69rZMD)
+
+_**brain-calc**_
+
+[![asciicast](https://asciinema.org/a/ug4SRUlAyPeInYiq8m8sMIF5A.svg)](https://asciinema.org/a/ug4SRUlAyPeInYiq8m8sMIF5A)
