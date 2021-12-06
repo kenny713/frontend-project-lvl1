@@ -5,4 +5,4 @@
 
 **Демонстрация запуска и процесса игр:**
 _**Установка пакета:**_
-<script id="asciicast-DdAZZJ5jc1jbZHzxPjPRBoQUv" src="https://asciinema.org/a/DdAZZJ5jc1jbZHzxPjPRBoQUv.js" async></script>
+[![asciicast](https://asciinema.org/a/DdAZZJ5jc1jbZHzxPjPRBoQUv.svg)](https://asciinema.org/a/DdAZZJ5jc1jbZHzxPjPRBoQUv)
