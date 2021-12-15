@@ -25,12 +25,16 @@ _"Brain-games"_ - сборник из 5 консольных мини-игр н�
 
 _**Установка пакета:**_
 
-[![asciicast](https://asciinema.org/a/DdAZZJ5jc1jbZHzxPjPRBoQUv.svg)](https://asciinema.org/a/DdAZZJ5jc1jbZHzxPjPRBoQUv)
+[![asciicast](https://asciinema.org/a/bxbqzQTyIifdEtDgXWfTcWn23.svg)](https://asciinema.org/a/bxbqzQTyIifdEtDgXWfTcWn23)
 
 _**brain-even**_
 
-[![asciicast](https://asciinema.org/a/wvt8K7zUKlMdi73xIgP69rZMD.svg)](https://asciinema.org/a/wvt8K7zUKlMdi73xIgP69rZMD)
+[![asciicast](https://asciinema.org/a/ESwZRL3p26JFOkFZwcrCE30ms.svg)](https://asciinema.org/a/ESwZRL3p26JFOkFZwcrCE30ms)
 
 _**brain-calc**_
 
-[![asciicast](https://asciinema.org/a/ug4SRUlAyPeInYiq8m8sMIF5A.svg)](https://asciinema.org/a/ug4SRUlAyPeInYiq8m8sMIF5A)
+[![asciicast](https://asciinema.org/a/0SUzEDAWKovjd4RnJDMR7DL4x.svg)](https://asciinema.org/a/0SUzEDAWKovjd4RnJDMR7DL4x)
+
+_**brain-gcd**_
+
+[![asciicast](https://asciinema.org/a/ivcvBSZId1SW0n6fKQXrdbqhI.svg)](https://asciinema.org/a/ivcvBSZId1SW0n6fKQXrdbqhI)
