@@ -37,4 +37,4 @@ _**brain-calc**_
 
 _**brain-gcd**_
 
-[![asciicast](https://asciinema.org/a/ivcvBSZId1SW0n6fKQXrdbqhI.svg)](https://asciinema.org/a/ivcvBSZId1SW0n6fKQXrdbqhI)
+<script id="asciicast-ivcvBSZId1SW0n6fKQXrdbqhI" src="https://asciinema.org/a/ivcvBSZId1SW0n6fKQXrdbqhI.js" async></script>
