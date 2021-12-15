@@ -42,3 +42,6 @@ _**brain-gcd**_
 _**brain-progression**_
 
 [![asciicast](https://asciinema.org/a/IVUmeITrZxOL6BIHH6W4lW84b.svg)](https://asciinema.org/a/IVUmeITrZxOL6BIHH6W4lW84b)
+
+_**brain-prime**_
+[![asciicast](https://asciinema.org/a/ZOMmr1Btu5CGHEnSXYHeHTHsr.svg)](https://asciinema.org/a/ZOMmr1Btu5CGHEnSXYHeHTHsr)
