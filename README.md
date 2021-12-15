@@ -37,4 +37,4 @@ _**brain-calc**_
 
 _**brain-gcd**_
 
-<script id="asciicast-ivcvBSZId1SW0n6fKQXrdbqhI" src="https://asciinema.org/a/ivcvBSZId1SW0n6fKQXrdbqhI.js" async></script>
+<script id="https://github.com/kenny713/frontend-project-lvl1" src="https://asciinema.org/a/ivcvBSZId1SW0n6fKQXrdbqhI.js" async></script>
