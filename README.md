@@ -38,3 +38,7 @@ _**brain-calc**_
 _**brain-gcd**_
 
 [![asciicast](https://asciinema.org/a/ivcvBSZId1SW0n6fKQXrdbqhI.svg)](https://asciinema.org/a/ivcvBSZId1SW0n6fKQXrdbqhI)
+
+_**brain-progression**_
+
+[![asciicast](https://asciinema.org/a/IVUmeITrZxOL6BIHH6W4lW84b.svg)](https://asciinema.org/a/IVUmeITrZxOL6BIHH6W4lW84b)
