@@ -4,8 +4,7 @@ import runGame from '../index.js';
 const getProgression = (firstItem, length, diff) => {
   const progression = [];
   for (let i = 0; i < length; i += 1) {
-    const item = firstItem + diff * i;
-    progression.push(item);
+    progression.push(firstItem + diff * i);
   }
   return progression;
 };

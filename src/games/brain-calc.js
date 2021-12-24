@@ -2,22 +2,17 @@ import getRandomNumber from '../common.js';
 import runGame from '../index.js';
 
 const calculateExpression = (operand1, operator, operand2) => {
-  let answer;
-
+  
   switch (operator) {
     case '+':
-      answer = operand1 + operand2;
-      break;
+      return operand1 + operand2;
     case '-':
-      answer = operand1 - operand2;
-      break;
+      return operand1 - operand2;
     case '*':
-      answer = operand1 * operand2;
-      break;
+      return operand1 * operand2;
     default:
-      answer = null;
+      return null;
   }
-  return answer;
 };
 
 const description = 'What is the result of the expression?';

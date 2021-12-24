@@ -8,7 +8,7 @@ const getGameData = () => {
   const number = getRandomNumber(0, 25);
   const question = `${number}`;
   const answer = isEven(number) ? 'yes' : 'no';
-  return [question, String(answer)];
+  return [question, answer];
 };
 
 const brainEven = () => runGame(description, getGameData);
