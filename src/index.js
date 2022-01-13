@@ -13,14 +13,17 @@ const runGame = (description, getGameData) => {
     console.log(`Question: ${question}`);
     const userAnswer = readlineSync.question('Your answer: ');
 
-    if (userAnswer === answer) {
-      console.log('Correct!');
-    } else {
+    if (userAnswer !== answer) {
       console.log(`'${userAnswer}' is wrong answer; (. Correct answer was '${answer}'`);
       console.log(`Let's try again, ${userName}!`);
       return;
     }
+
+    if (userAnswer === answer) {
+      console.log('Correct!');
+    }
+
+    console.log(`Congratulations, ${userName}!`);
   }
-  console.log(`Congratulations, ${userName}!`);
 };
 export default runGame;
