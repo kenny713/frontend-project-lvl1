@@ -10,8 +10,9 @@ const getProgression = (firstItem, length, diff) => {
 };
 
 const generateQuestion = (progression, hiddenItem) => {
-  progression[hiddenItem] = '..';
-  const question = `${progression.join(' ')}`;
+  const array = progression;
+  array[hiddenItem] = '..';
+  const question = `${array.join(' ')}`;
   return question;
 };
 
@@ -23,7 +24,7 @@ const getGameData = () => {
   const difference = getRandomNumber(0, 15);
   const progression = getProgression(startItem, lengthOfProgression, difference);
   const answer = progression[hiddenItem];
-  const question = generateQuestion (progression, hiddenItem);
+  const question = generateQuestion(progression, hiddenItem);
   return [question, String(answer)];
 };
 
