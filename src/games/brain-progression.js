@@ -1,16 +1,16 @@
 import getRandomNumber from '../common.js';
 import runGame from '../index.js';
 
-const getProgression = (firstItem, length, diff) => {
+const getProgression = (firstItem, length, step) => {
   const progression = [];
   for (let i = 0; i < length; i += 1) {
-    progression.push(firstItem + diff * i);
+    progression.push(firstItem + step * i);
   }
   return progression;
 };
 
 const generateQuestion = (progression, hiddenItem) => {
-  const array = progression;
+  const array = progression.slice(0);
   array[hiddenItem] = '..';
   const question = `${array.join(' ')}`;
   return question;

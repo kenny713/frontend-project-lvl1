@@ -19,11 +19,10 @@ const runGame = (description, getGameData) => {
       return;
     }
 
-    if (userAnswer === answer) {
-      console.log('Correct!');
+    console.log('Correct!');
+    if (i === 2) {
+      console.log(`Congratulations, ${userName}!`);
     }
-
-    console.log(`Congratulations, ${userName}!`);
   }
 };
 export default runGame;
