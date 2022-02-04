@@ -1,6 +1,8 @@
 import getRandomNumber from '../common.js';
 import runGame from '../index.js';
 
+const description = 'What number is missing in the progression?';
+
 const getProgression = (firstItem, length, step) => {
   const progression = [];
   for (let i = 0; i < length; i += 1) {
@@ -16,7 +18,6 @@ const generateQuestion = (progression, hiddenItem) => {
   return question;
 };
 
-const description = 'What number is missing in the progression?';
 const getGameData = () => {
   const startItem = getRandomNumber(0, 50);
   const lengthOfProgression = getRandomNumber(5, 10);
